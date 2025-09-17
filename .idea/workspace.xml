@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60e01931-feaf-4007-ba80-679e15628f1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/010_Henning.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/020_Henning.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030_Henning.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010_Henning.php" beforeDir="false" afterPath="$PROJECT_DIR$/010_Eigenen_Namen_ausgeben/010_Henning.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/020_Henning.php" beforeDir="false" afterPath="$PROJECT_DIR$/020_kleinste_von_drei_zahlen/020_Henning.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/030_Henning.php" beforeDir="false" afterPath="$PROJECT_DIR$/030_wuerfeln/030_Henning.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +63,14 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\Loesungen" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Loesungen\030_wuerfeln" />
+      <recent name="C:\xampp\htdocs\Loesungen\020_kleinste_von_drei_zahlen" />
+      <recent name="C:\xampp\htdocs\Loesungen\010_Eigenen_Namen_ausgeben" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="030_Henning.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/030_Henning.php">
+    <configuration name="030_Henning.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/030_wuerfeln/030_Henning.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -91,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758029230219</updated>
-      <workItem from="1758029231633" duration="2577000" />
+      <workItem from="1758029231633" duration="3663000" />
     </task>
     <servers />
   </component>
