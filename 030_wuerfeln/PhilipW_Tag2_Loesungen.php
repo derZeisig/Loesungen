@@ -5,9 +5,9 @@ $Nachname = "Wuggenig";
 $Wohnort = "Stuttgart";
 
 //Variablen zu Aufgabe 2
-$rand1 = rand(0,3);
-$rand2 = rand(0,3);
-$rand3 = rand(0,3);
+$rand1 = rand(0,10);
+$rand2 = rand(0,10);
+$rand3 = rand(0,10);
 
 //Variablen zu Aufgabe 3
 $wuerfel = rand(1,6);

@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e01931-feaf-4007-ba80-679e15628f1d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/010_Henning.php" beforeDir="false" afterPath="$PROJECT_DIR$/010_Eigenen_Namen_ausgeben/010_Henning.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/020_Henning.php" beforeDir="false" afterPath="$PROJECT_DIR$/020_kleinste_von_drei_zahlen/020_Henning.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/030_Henning.php" beforeDir="false" afterPath="$PROJECT_DIR$/030_wuerfeln/030_Henning.php" afterDir="false" />
-    </list>
+    <list default="true" id="60e01931-feaf-4007-ba80-679e15628f1d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,17 +59,22 @@
       <recent name="C:\xampp\htdocs\Loesungen" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHP\Loesungen\030_wuerfeln" />
       <recent name="C:\xampp\htdocs\Loesungen\030_wuerfeln" />
       <recent name="C:\xampp\htdocs\Loesungen\020_kleinste_von_drei_zahlen" />
       <recent name="C:\xampp\htdocs\Loesungen\010_Eigenen_Namen_ausgeben" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.PhilipW_Tag2_Loesungen.php">
     <configuration name="030_Henning.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/030_wuerfeln/030_Henning.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="PhilipW_Tag2_Loesungen.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/030_wuerfeln/PhilipW_Tag2_Loesungen.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.PhilipW_Tag2_Loesungen.php" />
         <item itemvalue="PHP Script.030_Henning.php" />
       </list>
     </recent_temporary>
@@ -95,6 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758029230219</updated>
       <workItem from="1758029231633" duration="3663000" />
+      <workItem from="1758092650610" duration="396000" />
     </task>
     <servers />
   </component>
