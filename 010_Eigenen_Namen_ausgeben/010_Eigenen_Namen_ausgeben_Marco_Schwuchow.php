@@ -31,13 +31,12 @@
 <hr>
 
 <?php
-    // Prüfen ob Formular abgesendet wurde
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $vorname = htmlspecialchars($_POST['vorname']);
         $nachname = htmlspecialchars($_POST['nachname']);
         $wohnort = htmlspecialchars($_POST['wohnort']);
 
-        echo "<p><b>$vorname $nachname</b> wohnt in <b>$wohnort</b>.</p>";
+        print "<p><b>$vorname $nachname</b> wohnt in <b>$wohnort</b>.</p>";
 }
 ?>
 </body>
